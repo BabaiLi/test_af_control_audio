@@ -11,8 +11,7 @@
     </tr>
 </table>
 
-## 加入語者權重
-## 增強 / 減弱 AF 
+## 加入語者權重 增強 / 減弱 AF 
 6 8 3 9 9 7 15 7 11 9 1 8 10 9
 <div style="border-style:none;width:auto;">
     <table>

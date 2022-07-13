@@ -332,4 +332,4 @@
 </div>
 
 ## Inference 模型細節
-![model_detail](model_detail.png)
+![model-detail](model_detail.png .png)

@@ -244,5 +244,89 @@
                 </audio>
             </th>
         </tr>
+        
+        <tr>
+            <th>變動 "七"</th>
+            <th>
+                <audio controls>
+                    <source src="audio/pred_test_qi_add.wav" type="audio/wav">
+                </audio>
+            </th>
+            <th>
+                <audio controls>
+                    <source src="audio/pred_test_qi_diff.wav" type="audio/wav">
+                </audio>
+            </th>
+        </tr>
+        
+        <tr>
+            <th>變動 "路"</th>
+            <th>
+                <audio controls>
+                    <source src="audio/pred_test_lu_add.wav" type="audio/wav">
+                </audio>
+            </th>
+            <th>
+                <audio controls>
+                    <source src="audio/pred_test_lu_diff.wav" type="audio/wav">
+                </audio>
+            </th>
+        </tr>
+        
+        <tr>
+            <th>變動 "無"</th>
+            <th>
+                <audio controls>
+                    <source src="audio/pred_test_u_add.wav" type="audio/wav">
+                </audio>
+            </th>
+            <th>
+                <audio controls>
+                    <source src="audio/pred_test_u_diff.wav" type="audio/wav">
+                </audio>
+            </th>
+        </tr>
+        
+        <tr>
+            <th>變動 "人"</th>
+            <th>
+                <audio controls>
+                    <source src="audio/pred_test_ren_add.wav" type="audio/wav">
+                </audio>
+            </th>
+            <th>
+                <audio controls>
+                    <source src="audio/pred_test_ren_diff.wav" type="audio/wav">
+                </audio>
+            </th>
+        </tr>
+        
+        <tr>
+            <th>變動 "售"</th>
+            <th>
+                <audio controls>
+                    <source src="audio/pred_test_shou_add.wav" type="audio/wav">
+                </audio>
+            </th>
+            <th>
+                <audio controls>
+                    <source src="audio/pred_test_shou_diff.wav" type="audio/wav">
+                </audio>
+            </th>
+        </tr>
+        
+        <tr>
+            <th>變動 "票"</th>
+            <th>
+                <audio controls>
+                    <source src="audio/pred_test_piao_add.wav" type="audio/wav">
+                </audio>
+            </th>
+            <th>
+                <audio controls>
+                    <source src="audio/pred_test_piao_diff.wav" type="audio/wav">
+                </audio>
+            </th>
+        </tr>
     </table>
 </div>
